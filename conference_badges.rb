@@ -31,5 +31,3 @@ def printer
 end 
 end 
   
-  puts 
-end 
