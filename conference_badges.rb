@@ -30,4 +30,3 @@ def printer
     puts rooms[i]
 end 
 end 
-  
