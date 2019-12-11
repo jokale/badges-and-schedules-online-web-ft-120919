@@ -24,6 +24,7 @@ end
 
 def printer 
   badge = batch_badge_creator(name)
-  room_assignments = assign_rooms(speakers)
+  room_assignments = assign_rooms(names)
+  
   puts 
 end 
